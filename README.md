@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tobias-roy
-- 👀 I’m interested in C#, C++, Vue, React and Angular!
+- 👀 I’m interested in C#, Vue, Rand Angular!
 - 🌱 I’m currently learning all of the above..
 - 💞️ I’m looking to collaborate on all the things that i find inspiring!
 - 📫 How to reach me kontakt@tobiasroy.dk
