@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tobias-roy
 - 👀 
-- 🌱 I’m currently learning all of the above..
-- 💞️ I’m looking to collaborate on all the things that i find inspiring!
+- 🌱 I’m currently working as a backend developer at Eurofins
 - 📫 How to reach me kontakt@tobiasroy.dk
 
 <!---
